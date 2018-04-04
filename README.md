@@ -1,1 +1,1 @@
-# RxJava_Retrofit_Dagger_Mvp
+# RxJava 2 + Retrofit 2 + Dagger 2 + Model-View-Presenter
